@@ -2,8 +2,10 @@
   "dependencies": {
     "@types/react": "^16.9.9",
     "@types/react-dom": "^16.9.2",
+    "@types/react-intl": "^3.0.0",
     "react": "^16.10.2",
     "react-dom": "^16.10.2",
+    "react-intl": "^3.3.2",
     "typescript": "^3.6.4"
   },
   "devDependencies": {

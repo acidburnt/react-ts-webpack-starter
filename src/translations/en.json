@@ -1,0 +1,4 @@
+{
+  "root.greeting": "Hello {name}!",
+  "root.text": "Does this even work?"
+}
